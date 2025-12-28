@@ -31,3 +31,9 @@ git log --oneline
 ## 6. Просмотр различий между версиями
 ```bash
 git diff
+
+## 7. Работа с ветками
+```bash
+git branch
+git branch <имя_ветки>
+git checkout <имя_ветки>
