@@ -23,3 +23,7 @@ git add .
 ```bash
 git commit -m "Сообщение"
 
+## 5. Просмотр истории коммитов
+```bash
+git log
+git log --oneline
