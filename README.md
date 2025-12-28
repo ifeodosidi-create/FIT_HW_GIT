@@ -27,3 +27,7 @@ git commit -m "Сообщение"
 ```bash
 git log
 git log --oneline
+
+## 6. Просмотр различий между версиями
+```bash
+git diff
