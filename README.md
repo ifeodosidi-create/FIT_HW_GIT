@@ -37,3 +37,7 @@ git diff
 git branch
 git branch <имя_ветки>
 git checkout <имя_ветки>
+
+## 8. Слияние веток
+```bash
+git merge <имя_ветки>
